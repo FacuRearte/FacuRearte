@@ -10,7 +10,7 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
 
 - Soy estudiante de SoyHenry, ya falta poco para graduarme 😊.
 - Me gusta el futbol, básquet y la natación.
-- Informático desde los 7 años.
+- Amo la informática desde los 7 años.
 - Además de Full Stack Developer, soy Técnico Informático.
 
 ## :headphones: Mis Playlist
