@@ -1,6 +1,6 @@
 # Hola, yo soy Facundo Rearte 👨‍💻⚽🏀🎮
 
-Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry!. Estoy interesado tanto en el Front-End tanto como en el Back-end, me apasionan los dos 🤯.
+Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Estoy interesado tanto en el Front-End tanto como en el Back-end, me apasionan los dos 🤯.
 
 # Mis Redes
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundorearte13/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUxBKsRMaCXh-0N-ipI8pPw/featured)
