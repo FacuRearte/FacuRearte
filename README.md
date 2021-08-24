@@ -1,58 +1,65 @@
-<h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
+# Hola, yo soy Facundo Rearte 👨‍💻⚽🏀🎮
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry!. Estoy interesado tanto en el Front-End tanto como en el Back-end, me apasionan los dos 🤯.
 
+# Mis Redes
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundorearte13/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUxBKsRMaCXh-0N-ipI8pPw/featured)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facu_dian/)
 
+# Un poco sobre mi
 
+- :muscle: Soy estudiante de SoyHenry, ya falta poco para graduarme 😊.
 
-<br />
-<br />
+## :headphones: Mis Playlist
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
- 
+[![Musica para codear](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=HhHW5f9LYC8&ab_channel=LittleSoul)
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+## :wrench: Tecnologías que aprendí
 
-**About Me!**
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+---
 
+<!-- markdownlint-disable MD033 -->
 
+<details>
+    <summary>&#128240 <b>Últimos proyectos</b></summary><br/>
 
-**Languages and Tools:**  
+<!-- BLOG-POST-LIST:START -->
+- [PI-DOGS](https://github.com/FacuRearte/PI-DOGS)
+- [Shop](https://github.com/FacuRearte/Proyectos/tree/master/React-2/Shop-clothes)
+<!-- BLOG-POST-LIST:END -->
 
+</details>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<details>
+    <summary>&#128187 <b>Actividades en GitHub</b></summary><br/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<!--START_SECTION:activity-->
+-Actualmente trabajando en: Wheather API
+<!--END_SECTION:activity-->
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
+<details>
+    <summary>&#127942 <b>Premios de GitHub</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=FacuRearte)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>Estadísticas en GitHub</b></summary><br/>
+
+[![Waren Gonzaga Github Stats](https://readme-stats.FacuRearte.com/api?username=FacuRearte&show_icons=true&count_private=true)](https://github.com/FacuRearte/github-readme-stats) [![Top Language](https://readme-stats.FacuRearte.com/api/top-langs?username=FacuRearte&layout=compact)](https://github.com/FacuRearte/github-readme-stats)
+
+</details>
+
+<!-- markdownlint-enable MD033 -->
+
+---
+
+:computer: Gracias por leerme 😃 :pray:
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
 
-Last Edited on: 04/01/2021
