@@ -54,8 +54,8 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
 <details>
     <summary>&#9889 <b>Estadísticas en GitHub</b></summary><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacuRearte&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacuRearte&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FacuRearte&show_icons=true&theme=tokyonight)
+[![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FacuRearte&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
