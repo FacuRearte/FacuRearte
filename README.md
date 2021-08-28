@@ -29,6 +29,7 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
     <summary>&#128240 <b>Últimos proyectos</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [APP-CLIMA](https://github.com/FacuRearte/Proyectos/tree/master/React-4/Weather-APP)
 - [PI-DOGS](https://github.com/FacuRearte/PI-DOGS)
 - [Shop](https://github.com/FacuRearte/Proyectos/tree/master/React-2/Shop-clothes)
 <!-- BLOG-POST-LIST:END -->
