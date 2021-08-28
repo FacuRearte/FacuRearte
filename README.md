@@ -39,7 +39,7 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
     <summary>&#128187 <b>Actividades en GitHub</b></summary><br/>
 
 <!--START_SECTION:activity-->
--Actualmente trabajando en: Wheather API
+-Actualmente trabajando en: `Henropoly`.
 <!--END_SECTION:activity-->
 
 </details>
