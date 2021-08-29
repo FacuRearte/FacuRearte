@@ -7,7 +7,7 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facu_dian/)
 
 # Mi portafolio
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1ca3e57c-bd70-4375-b905-deeb450bec9d/deploy-status)](https://app.netlify.com/sites/facundorearte/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ca3e57c-bd70-4375-b905-deeb450bec9d/deploy-status)](https://facundorearte.netlify.app/)
 
 # Un poco sobre mi
 
