@@ -5,11 +5,14 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
 # Mis Redes
 Ir a mi LinkedIn ↓
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundorearte13/) 
+
 Ir a mi canal de YouTube ↓
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUxBKsRMaCXh-0N-ipI8pPw/featured)
+
 Ir a mi Instagram ↓
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facu_dian/)
 Para mandarme un correo ↓
+
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=red?labelColor=red)](mailto:facundorearte13@gmail.com?%20Subject=Contacto%20para%20trabajo)
 
 # Mi portafolio
