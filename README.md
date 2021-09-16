@@ -3,11 +3,18 @@
 Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Estoy interesado tanto en el Front-End tanto como en el Back-end, me apasionan los dos 🤯.
 
 # Mis Redes
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundorearte13/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUxBKsRMaCXh-0N-ipI8pPw/featured)
+Ir a mi LinkedIn ↓
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundorearte13/) 
+Ir a mi canal de YouTube ↓
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUxBKsRMaCXh-0N-ipI8pPw/featured)
+Ir a mi Instagram ↓
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facu_dian/)
+Para mandarme un correo ↓
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=red?labelColor=red)](mailto:facundorearte13@gmail.com?%20Subject=Contacto%20para%20trabajo)
 
 # Mi portafolio
+Aquí encontrarás mis redes, un poco más de mi y podrás ver/descargar mi curriculum.
+Para ir a mi portafolio ↓
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ca3e57c-bd70-4375-b905-deeb450bec9d/deploy-status)](https://facundorearte.netlify.app/)
 
 # Un poco sobre mi
