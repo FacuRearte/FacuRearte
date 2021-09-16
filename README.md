@@ -29,6 +29,16 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
 <!-- markdownlint-disable MD033 -->
 
 <details>
+    <summary>&#128240 <b>Mis mejores proyectos o en los que participé</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [Henropoly](https://github.com/matiasgarrid0/Henropoly)
+- [PI-DOGS](https://github.com/FacuRearte/PI-DOGS)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+<details>
     <summary>&#128240 <b>Últimos proyectos</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
