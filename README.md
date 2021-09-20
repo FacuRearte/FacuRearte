@@ -25,6 +25,8 @@ Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero tamb
 
                                Amo la informática desde los 7 años.
                                 Además de Full Stack Developer, soy Técnico Informático.
+                                
+                                
 
                                                                        :headphones: Mis Playlist
 
