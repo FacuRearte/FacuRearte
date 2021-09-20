@@ -28,7 +28,7 @@ Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero tamb
 
 ## :headphones: Mis Playlist
 
-[![Musica para codear](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1PKYiQbbX3Fak5c9SiYpFQ)
+                                                                      [![Musica para codear](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1PKYiQbbX3Fak5c9SiYpFQ)
 
 ## :wrench: Tecnologías que aprendí
 
