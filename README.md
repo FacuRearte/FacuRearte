@@ -17,7 +17,7 @@ Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero tamb
 
 # Descargar mi CV en formato PDF
 
-                                                                                                     [Descargar](https://acortar.link/2b4wRj)
+                                                                                                          [Descargar](https://acortar.link/2b4wRj)
 
 # Un poco sobre mi
 
