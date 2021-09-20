@@ -21,7 +21,7 @@ Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero tamb
 
 #                                           Un poco sobre mi
 
-                   Soy estudiante de SoyHenry, ya falta poco para graduarme 😊.        ||        Me gusta el futbol, básquet y la natación.
+                   Soy estudiante de SoyHenry, ya falta poco para graduarme 😊.               Me gusta el futbol, básquet y la natación.
 
                                Amo la informática desde los 7 años.
                                 Además de Full Stack Developer, soy Técnico Informático.
