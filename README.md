@@ -11,9 +11,9 @@ Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero tamb
 # Mi portafolio
 Aquí encontrarás mis redes, un poco más de mi y podrás ver/descargar mi curriculum.
 
-                                                                                                                                                      Para ir a mi portafolio ↓
+                                                                                                                               Para ir a mi portafolio ↓
 
-                                                                                [![Netlify Status](https://api.netlify.com/api/v1/badges/1ca3e57c-bd70-4375-b905-deeb450bec9d/deploy-status)](https://facundorearte.netlify.app/)
+                                                                                                              [![Netlify Status](https://api.netlify.com/api/v1/badges/1ca3e57c-bd70-4375-b905-deeb450bec9d/deploy-status)](https://facundorearte.netlify.app/)
 
 # Descargar mi CV en formato PDF
 
