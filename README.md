@@ -19,7 +19,7 @@ Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero tamb
 
                                                                                                           [Descargar](https://acortar.link/2b4wRj)
 
-                                                                      #Un poco sobre mi
+                                                                                    #Un poco sobre mi
 
                    Soy estudiante de SoyHenry, ya falta poco para graduarme 😊.               Me gusta el futbol, básquet y la natación.
 
