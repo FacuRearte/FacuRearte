@@ -4,7 +4,7 @@ Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Esto
 Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero también tengo nivel C2 en inglés.
 
 #                                                  Mis Redes
-     Ir a mi LinkedIn ↓        ||            Ir a mi canal de YouTube ↓             ||              Ir a mi Instagram ↓             ||          Para mandarme un correo ↓
+     Ir a mi LinkedIn ↓        ||          Ir a mi canal de YouTube ↓             ||            Ir a mi Instagram ↓             ||          Para mandarme un correo ↓
 
        [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundorearte13/)                              [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUxBKsRMaCXh-0N-ipI8pPw/featured)                                     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facu_dian/)                             [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=red?labelColor=red)](mailto:facundorearte13@gmail.com?%20Subject=Contacto%20para%20trabajo)
 
