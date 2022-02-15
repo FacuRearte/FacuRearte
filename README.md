@@ -1,7 +1,7 @@
 #                          Hola, yo soy Facundo Rearte 👨‍💻⚽🏀🎮
 
 Soy Full Stack Developer, actualmente estoy terminando mi carrera en Henry. Estoy interesado tanto en el Front-End tanto como en el Back-end, me apasionan los dos 🤯.
-Tengo 20 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero también tengo nivel C2 en inglés.
+Tengo 21 años, soy de Buenos Aires, Argentina. Hablo español nativo, pero también tengo nivel C2 en inglés.
 
 #                                                  Mis Redes
      Ir a mi LinkedIn ↓        ||          Ir a mi canal de YouTube ↓             ||            Ir a mi Instagram ↓             ||          Para mandarme un correo ↓
